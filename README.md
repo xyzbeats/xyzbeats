@@ -1,0 +1,5 @@
+- Hi, I'm XYZ 
+- I’m interested in web-programming
+- I’m currently learning react.js
+- I’m actually making a beats
+- I'm looking for a job
